@@ -48,5 +48,5 @@
         ripgrep
         jq
         yq
-        ];
+    ];
 }
